@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+*Portfolio*.json
+*portfolio*.json
+node_modules/
+test-results/
+playwright-report/
